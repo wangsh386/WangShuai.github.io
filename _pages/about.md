@@ -52,7 +52,7 @@ Competition
 
 CV
 ========
-You can find my CV here: [WangShuai's Curriculum Vitae](../assets/CVWangShuai.pdf).
+You can find my CV here: [WangShuai's Curriculum Vitae](https://github.com/wangsh386/wangshuai.github.io/tree/master/assets/CVWangShuai.pdf).
 
 
 [Email](mailto:15928277030@163.com) / [Github](https://github.com/wangsh386) / [Wechat](../images/wechat.jpg) 
