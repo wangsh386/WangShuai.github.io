@@ -6,16 +6,16 @@
 
 main:
   - title: "Background"
-    url: /portfolio/
+    #url: /portfolio/
 
   - title: "Research Experiences"
-    url: /publications/
+    #url: /publications/
 
   - title: "Honors"
-    url: /teaching/
+    #url: /teaching/
     
   - title: "CV"
-    url: /cv/
+    #url: /cv/
 
  # - title: "Talks"
  #  url: /talks/    
