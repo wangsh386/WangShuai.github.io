@@ -5,7 +5,7 @@ name                     : &name "Wang Shuai"
 description              : &description "personal description"
 url                      : https://wangsh386.github.io/wangshuai.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "wangsh386/wangshuai.github.io"
+repository               : "https://wangsh386.github.io/wangshuai.github.io/"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
