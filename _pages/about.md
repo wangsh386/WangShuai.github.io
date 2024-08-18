@@ -18,22 +18,18 @@ Research Experiences
 
 <div style="display: table; width: 100%; border-collapse: collapse;">
 
-<div style="display: table-row;">
+  <div style="display: table-row;">
+    <div style="display: table-cell; width: 30%; padding-right: 20px; vertical-align: middle;">
+      <img src="https://raw.githubusercontent.com/wangsh386/wangshuai.github.io/master/images/mstile-70x70.png" alt="Project Image 1" style="width: 100%; height: auto;"/>
+    </div>
 
-<div style="display: table-cell; width: 30%; padding-right: 20px; vertical-align: top;">
-<img src="https://raw.githubusercontent.com/wangsh386/wangshuai.github.io/master/images/mstile-70x70.png" alt="Project Image 1" style="width: 100%; height: auto;"/>
-</div>
-
-<div style="display: table-cell; width: 70%; vertical-align: top;">
-<strong>Rapid Adaptive Semantic Map Update in Construction Site Scenarios</strong><br>
-<strong>Supervisor:</strong> Wang Liang<br>
-- 在施工现场场景中，为了规划运输材料的小车路径，我们需要整合当前地图信息...<br>
-- <strong><a href="link_to_paper1">Paper</a> | <a href="link_to_code1">Code</a> | <a href="link_to_video1">Video</a></strong>
-</div>
-
-</div>
-
-<!-- Repeat the above structure for more projects -->
+    <div style="display: table-cell; width: 70%; vertical-align: middle;">
+      <strong>Rapid Adaptive Semantic Map Update in Construction Site Scenarios</strong><br>
+      <strong>Supervisor:</strong> Wang Liang<br>
+      - 在施工现场场景中，为了规划运输材料的小车路径，我们需要整合当前地图信息...<br>
+      - <strong><a href="link_to_paper1">Paper</a> | <a href="link_to_code1">Code</a> | <a href="link_to_video1">Video</a></strong>
+    </div>
+  </div>
 
 </div>
 
