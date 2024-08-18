@@ -23,8 +23,8 @@ Research Experiences
 
     <div style="display: table-cell; width: 70%; vertical-align: middle;">
       <strong>Rapid Adaptive Semantic Map Update in Construction Site Scenarios</strong><br>
-      - For efficient path planning in dynamic construction sites, we integrate current map data with semantic information to minimize the need for frequent remapping. By leveraging 3D object detection, we construct a prior semantic map, which enhances rapid localization and allows for quick adjustments using images and point clouds. This approach is being tested in collaboration with CSCEC at Baiyun Airport Terminal 3.<br>
-      - <strong><a href="link_to_paper1">Paper</a> | <a href="link_to_code1">Code</a> | <a href="link_to_video1">Video</a></strong>
+      - To enhance path planning efficiency on construction sites, we integrate semantic information to reduce the need for frequent map updates. We build a prior semantic map using 3D object detection, leveraging image data for guided localization and using it to assist point cloud semantic segmentation for rapid map adjustments. This approach is currently being tested in collaboration with CSCEC at Baiyun Airport Terminal 3.<br>
+      - <strong>
     </div>
   </div>
 
