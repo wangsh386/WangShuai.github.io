@@ -6,13 +6,13 @@
 
 main:
   - title: "Background"
-    url: /Background/
+    url: /talks/
 
   - title: "Research Experiences"
     url: /publications/
 
   - title: "Honors"
-    url: /Honors/
+    url: /teaching/
     
   - title: "CV"
     url: /cv/
