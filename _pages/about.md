@@ -10,7 +10,7 @@ I'm a fourth year undergraduate student from [School of Electronics and Communic
 
 I am very fortunate to be advised by [Prof. WangLiang](https://sece.sysu.edu.cn/szll/js/1361718.htm) of Intelligent Electro-Optical Vision Sensing Lab from [School of Electronics and Communications Engineering](https://sece.sysu.edu.cn/), [Sun Yat-sen University](https://www.sysu.edu.cn/).
 
-In addition to my academic pursuits, I have held leadership positions such as President of the Student Union of the School of Electronics and Communications Engineering and Captain of the Electronics and Communications Engineering Football Team.
+In addition to my academic pursuits, I have held leadership positions such as [President of the Student Union of the School of Electronics and Communications Engineering](https://github.com/wangsh386/wangshuai.github.io/blob/master/images/xueshenghui.png) and Captain of the Electronics and Communications Engineering [Football Team](https://github.com/wangsh386/wangshuai.github.io/blob/master/images/zuqiudui.png).
 
 Research Experiences
 ========
