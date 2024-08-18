@@ -77,11 +77,13 @@ Honors
 
 ### National Level
 - **Third Prize** of Asia-Pacific Regional Mathematical Modeling Competition in 2023
+
+### Provincial Level
 - **First Prize** of National Electronic Design Competition in 2023
 - **Second Prize** of National Integrated Circuit Innovation Competition Feiteng Cup South China Region in 2023
 - **Third Prize** in National University Student Mathematical Modeling Competition in 2022
 
-### Provincial Level
+### School Level
 - **Scholarship for Outstanding Students** of Sun Yat-sen University Second Prize in 2023
 - **Excellent Student Leader** of School of Electronics and Communication Engineering in 2023
 - **Second Prize** of Electronic Design Competition, School of Electronics and Communication Engineering in 2022
@@ -95,4 +97,4 @@ CV
 You can find my CV here: [WangShuai's Curriculum Vitae](https://github.com/wangsh386/wangshuai.github.io/tree/master/assets/CVWangShuai.pdf).
 
 
-[Email](mailto:15928277030@163.com) / [Github](https://github.com/wangsh386) / [Wechat](../images/wechat.jpg) 
+[Email](mailto:15928277030@163.com) / [Github](https://github.com/wangsh386) / [Wechat](https://raw.githubusercontent.com/wangsh386/wangshuai.github.io/blob/master/images/wechat.png) 
