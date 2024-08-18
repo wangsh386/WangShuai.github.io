@@ -49,7 +49,7 @@ Research Experiences
     <div style="display: table-cell; width: 70%; vertical-align: middle;">
       <strong>Completed High-precision Lamination of COMS and Fiber Optic Panels Using a Vision System in a Coupling Project with Huawei</strong><br>
       - This project involved using computer vision to ensure high-precision lamination of COMS and fiber optic panels. Responsibilities included positioning, error detection, and the implementation of the process using a robotic arm, culminating in a patent as the first inventor.<br>
-      - <strong><a href="link_to_paper3">Paper</a> | <a href="link_to_code3">Code</a> | <a href="link_to_video3">Video</a></strong>
+      - <strong><a href="https://github.com/wangsh386/wangshuai.github.io/blob/master/assets/rs3paper.pdf">Paper</a> | <a href="link_to_video3">Video</a></strong>
     </div>
   </div>
 
@@ -60,8 +60,8 @@ Research Experiences
 
     <div style="display: table-cell; width: 70%; vertical-align: middle;">
       <strong>Autocorrelation Sidelobe Suppression in MIMO Radar OFD-LFM Waveforms</strong><br>
-      - This research explored methods to suppress autocorrelation sidelobes in MIMO radar systems using OFD-LFM waveforms, with a focus on optimizing waveform parameters. The work resulted in a first-author conference paper and significant improvements in radar performance.<br>
-      - <strong><a href="link_to_paper4">Paper</a> | <a href="link_to_code4">Code</a> | <a href="link_to_video4">Video</a></strong>
+      - This research focused on optimizing OFD-LFM waveforms in MIMO radar systems to suppress autocorrelation sidelobes. A waveform optimization strategy was proposed, involving unequal modulation bandwidth and time width for each sub-signal. A genetic algorithm was used to minimize sidelobes, leading to significant radar performance improvements and a first-author conference paper. <br>
+      - <strong><a href="https://github.com/wangsh386/wangshuai.github.io/blob/master/assets/rs4paper.pdf">Paper</a> </strong>
     </div>
   </div>
 
