@@ -97,5 +97,5 @@ CV
 You can find my CV here: [WangShuai's Curriculum Vitae](https://github.com/wangsh386/wangshuai.github.io/tree/master/assets/CVWangShuai.pdf).
 
 
-[Email](15928277030@163.com) / [Github](https://github.com/wangsh386) / [WeChat QR Code](https://raw.githubusercontent.com/wangsh386/wangshuai.github.io/master/images/wechat.png)
+[Email](mailto:15928277030@163.com) / [Github](https://github.com/wangsh386) / [WeChat QR Code](https://raw.githubusercontent.com/wangsh386/wangshuai.github.io/master/images/wechat.png)
  
