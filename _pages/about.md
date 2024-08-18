@@ -25,7 +25,7 @@ Research Experiences
     <div style="display: table-cell; width: 70%; vertical-align: middle;">
       <strong>Rapid Adaptive Semantic Map Update in Construction Site Scenarios</strong><br>
       - To enhance path planning efficiency on construction sites, we integrate semantic information to reduce the need for frequent map updates. We build a prior semantic map using 3D object detection, leveraging image data for guided localization and using it to assist point cloud semantic segmentation for rapid map adjustments. This approach is currently being tested in collaboration with CSCEC at Baiyun Airport Terminal 3. <br>
-      - <strong><a>Paper</a> | <a>Code</a> | </strong>
+      - <strong><a href="link_to_paper">Paper</a> </strong>
     </div>
   </div>
 
@@ -36,7 +36,7 @@ Research Experiences
 
     <div style="display: table-cell; width: 70%; vertical-align: middle;">
       <strong>Drone Positioning Information-Assisted Reinforcement Learning Optimization Framework for IoT Data Collection</strong><br>
-      - This project focuses on using drones to assist in data collection and localization within IoT systems, optimizing the performance by integrating positioning information and reinforcement learning techniques. The solution is designed to improve the efficiency and reliability of IoT data collection in environments with limited infrastructure coverage.<br>
+      - Drones are increasingly used in data collection and localization due to their flexibility. This paper proposes a framework to optimize drone data collection and localization in IoT, addressing issues like infrastructure gaps and sensor dynamics. Using traditional reinforcement learning (e.g., Q-learning), we optimize trajectory planning and enhance model efficiency to reduce computational complexity. Simulations show our method improves data collection by 80% and reduces convergence time by 40%.<br>
       - <strong><a href="link_to_paper2">Paper</a> | <a href="link_to_code2">Code</a> | <a href="link_to_video2">Video</a></strong>
     </div>
   </div>
