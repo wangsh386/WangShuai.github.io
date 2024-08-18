@@ -14,7 +14,7 @@ In addition to my academic pursuits, I have held leadership positions such as Pr
 
 Research Experiences
 ========
-| ![Project Image](https://github.com/wangsh386/wangshuai.github.io/blob/master/images/zuqiudui.png) | **05/2024 - Present**  
+| ![Project Image](https://github.com/wangsh386/wangshuai.github.io/blob/master/images/mstile-70x70.png) | **05/2024 - Present**  
 **Rapid Adaptive Semantic Map Update in Construction Site Scenarios**  
 **Supervisor:** Wang Liang  
 - In the construction site scenario, for path planning of carts transporting materials, we need to integrate current map information. Construction site layouts can change slightly based on progress, making traditional methods costly as they require frequent remapping, especially in unchanged areas. Our goal is to eventually update prior maps quickly and locally by integrating semantic information.  
@@ -26,7 +26,7 @@ Research Experiences
 - 我们结合了3D物体检测构建了先验语义地图。接下来，我们分析了使用语义地图进行快速定位的优势。最后，我们的目标是通过图像和点云来快速更新先验语义地图，以进行小范围的调整。目前，我们正与中国建筑工程总公司（CSCEC）合作，在白云机场三号航站楼进行现场实验。  
 - 作为主要负责人，负责文献综述、确定研究方向、研究方法和编程工作。 |
 | --- | --- |
-| ![Project Image](https://github.com/wangsh386/wangshuai.github.io/blob/master/images/zuqiudui.png) | **01/2024 - 06/2024**  
+| ![Project Image](https://github.com/wangsh386/wangshuai.github.io/blob/master/images/mstile-70x70.png) | **01/2024 - 06/2024**  
 **Drone Positioning Information-Assisted Reinforcement Learning Optimization Framework for IoT Data Collection**  
 **Supervisor:** Sun Xinghua  
 - Used Drones for assisted data collection and localization to cope with the problems of insufficient infrastructure coverage, the dynamics and uncertainty of the data collection process and sensor locations in the Internet of Things (IoT).  
