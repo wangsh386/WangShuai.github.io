@@ -16,6 +16,17 @@ Research Experiences
 ========
 
 
+
+
+
+Competition
+========
+
+
+
+
+CV
+========
 You can find my CV here: [WangShuai's Curriculum Vitae](../assets/CVWangShuai.pdf).
 
 
