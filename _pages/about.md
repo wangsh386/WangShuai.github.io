@@ -31,7 +31,7 @@ Research Experiences
 
   <div style="display: table-row; margin-top: 20px;">
     <div style="display: table-cell; width: 30%; padding-right: 20px; vertical-align: middle;">
-      <img src="https://raw.githubusercontent.com/wangsh386/wangshuai.github.io/master/images/mstile-70x70.png" alt="Project Image 2" style="width: 100%; height: auto;"/>
+      <img src="https://raw.githubusercontent.com/wangsh386/wangshuai.github.io/master/images/rs2.png" alt="Project Image 2" style="width: 100%; height: auto;"/>
     </div>
 
     <div style="display: table-cell; width: 70%; vertical-align: middle;">
@@ -43,7 +43,7 @@ Research Experiences
 
   <div style="display: table-row; margin-top: 20px;">
     <div style="display: table-cell; width: 30%; padding-right: 20px; vertical-align: middle;">
-      <img src="https://raw.githubusercontent.com/wangsh386/wangshuai.github.io/master/images/mstile-70x70.png" alt="Project Image 3" style="width: 100%; height: auto;"/>
+      <img src="https://raw.githubusercontent.com/wangsh386/wangshuai.github.io/master/images/rs3.png" alt="Project Image 3" style="width: 100%; height: auto;"/>
     </div>
 
     <div style="display: table-cell; width: 70%; vertical-align: middle;">
@@ -55,7 +55,7 @@ Research Experiences
 
   <div style="display: table-row; margin-top: 20px;">
     <div style="display: table-cell; width: 30%; padding-right: 20px; vertical-align: middle;">
-      <img src="https://raw.githubusercontent.com/wangsh386/wangshuai.github.io/master/images/mstile-70x70.png" alt="Project Image 4" style="width: 100%; height: auto;"/>
+      <img src="https://raw.githubusercontent.com/wangsh386/wangshuai.github.io/master/images/rs4.png" alt="Project Image 4" style="width: 100%; height: auto;"/>
     </div>
 
     <div style="display: table-cell; width: 70%; vertical-align: middle;">
