@@ -11,15 +11,9 @@ I'm a fourth year undergraduate student from [School of Electronics and Communic
 I am very fortunate to be advised by [Prof. WangLiang](https://sece.sysu.edu.cn/szll/js/1361718.htm) of Intelligent Electro-Optical Vision Sensing Lab from [School of Electronics and Communications Engineering](https://sece.sysu.edu.cn/), [Sun Yat-sen University](https://www.sysu.edu.cn/).
 
 
----
-permalink: /
-title: "Research Experiences"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 
+Research Experiences
+========
 
 
 You can find my CV here: [WangShuai's Curriculum Vitae](../assets/CVWangShuai.pdf).
