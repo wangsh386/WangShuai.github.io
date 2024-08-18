@@ -16,7 +16,7 @@ Research Experiences
 ========
 ## 研究经历 / Research Experiences
 
-| ![Project Image 1](https://github.com/wangsh386/wangshuai.github.io/blob/master/images/mstile-70x70.png) | **Rapid Adaptive Semantic Map Update in Construction Site Scenarios**  
+| ![Project Image 1](https://raw.githubusercontent.com/wangsh386/wangshuai.github.io/master/images/mstile-70x70.png) | **Rapid Adaptive Semantic Map Update in Construction Site Scenarios**  
 **Supervisor:** Wang Liang  
 - 在施工现场场景中，为了规划运输材料的小车路径，我们需要整合当前地图信息...
 - **[Paper](link_to_paper1) | [Code](link_to_code1) | [Video](link_to_video1)** |
