@@ -14,7 +14,7 @@ In addition to my academic pursuits, I have held leadership positions such as Pr
 
 Research Experiences
 ========
-| ![Project Image](https://github.com/wangsh386/wangshuai.github.io/blob/master/images/mstile-70x70.png) | **05/2024 - Present**  
+| ![Project Image](../blob/master/images/mstile-70x70.png) | **05/2024 - Present**  
 **Rapid Adaptive Semantic Map Update in Construction Site Scenarios**  
 **Supervisor:** Wang Liang  
 - In the construction site scenario, for path planning of carts transporting materials, we need to integrate current map information. Construction site layouts can change slightly based on progress, making traditional methods costly as they require frequent remapping, especially in unchanged areas. Our goal is to eventually update prior maps quickly and locally by integrating semantic information.  
