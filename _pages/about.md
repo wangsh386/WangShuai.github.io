@@ -14,17 +14,18 @@ In addition to my academic pursuits, I have held leadership positions such as Pr
 
 Research Experiences
 ========
+
 <div style="display: table; width: 100%; border-collapse: collapse;">
 
   <div style="display: table-row;">
     <div style="display: table-cell; width: 30%; padding-right: 20px; vertical-align: middle;">
-      <img src="https://raw.githubusercontent.com/wangsh386/wangshuai.github.io/master/images/mstile-70x70.png" alt="Project Image 1" style="width: 100%; height: auto;"/>
+      <img src="https://raw.githubusercontent.com/wangsh386/wangshuai.github.io/master/images/rs1.png" alt="Project Image 1" style="width: 100%; height: auto;"/>
     </div>
 
     <div style="display: table-cell; width: 70%; vertical-align: middle;">
       <strong>Rapid Adaptive Semantic Map Update in Construction Site Scenarios</strong><br>
-      - To enhance path planning efficiency on construction sites, we integrate semantic information to reduce the need for frequent map updates. We build a prior semantic map using 3D object detection, leveraging image data for guided localization and using it to assist point cloud semantic segmentation for rapid map adjustments. This approach is currently being tested in collaboration with CSCEC at Baiyun Airport Terminal 3.<br>
-      - <strong>
+      - To enhance path planning efficiency on construction sites, we integrate semantic information to reduce the need for frequent map updates. We build a prior semantic map using 3D object detection, leveraging image data for guided localization and using it to assist point cloud semantic segmentation for rapid map adjustments. This approach is currently being tested in collaboration with CSCEC at Baiyun Airport Terminal 3. <br>
+      - <strong><a>Paper</a> | <a>Code</a> | </strong>
     </div>
   </div>
 
@@ -65,6 +66,7 @@ Research Experiences
   </div>
 
 </div>
+
 
 
 
