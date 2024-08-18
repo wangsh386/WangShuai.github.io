@@ -48,7 +48,7 @@ Research Experiences
 
     <div style="display: table-cell; width: 70%; vertical-align: middle;">
       <strong>Completed High-precision Lamination of COMS and Fiber Optic Panels Using a Vision System in a Coupling Project with Huawei</strong><br>
-      - This project involved using computer vision to ensure high-precision lamination of COMS and fiber optic panels. Responsibilities included positioning, error detection, and the implementation of the process using a robotic arm, culminating in a patent as the first inventor.<br>
+      - This project involved using computer vision to ensure high-precision lamination of COMS and fiber optic panels. Responsibilities included positioning, error detection, and the implementation of the process using a robotic arm, culminating in a patent as the first inventor and shared results at the International Congress of Intelligent Industries.<br>
       - <strong><a href="https://github.com/wangsh386/wangshuai.github.io/blob/master/assets/rs3paper.pdf">Paper</a> | <a href="link_to_video3">Video</a></strong>
     </div>
   </div>
@@ -72,8 +72,20 @@ Research Experiences
 
 
 
-Competition
+Honors
 ========
+
+### National Level
+- **Third Prize** of Asia-Pacific Regional Mathematical Modeling Competition in 2023
+- **First Prize** of National Electronic Design Competition in 2023
+- **Second Prize** of National Integrated Circuit Innovation Competition Feiteng Cup South China Region in 2023
+- **Third Prize** in National University Student Mathematical Modeling Competition in 2022
+
+### Provincial Level
+- **Scholarship for Outstanding Students** of Sun Yat-sen University Second Prize in 2023
+- **Excellent Student Leader** of School of Electronics and Communication Engineering in 2023
+- **Second Prize** of Electronic Design Competition, School of Electronics and Communication Engineering in 2022
+- **First Place** of Sun Yat-sen University Freshman Cup Soccer League in 2022
 
 
 
