@@ -14,8 +14,6 @@ In addition to my academic pursuits, I have held leadership positions such as Pr
 
 Research Experiences
 ========
-## 研究经历 / Research Experiences
-
 <div style="display: table; width: 100%; border-collapse: collapse;">
 
   <div style="display: table-row;">
@@ -25,8 +23,7 @@ Research Experiences
 
     <div style="display: table-cell; width: 70%; vertical-align: middle;">
       <strong>Rapid Adaptive Semantic Map Update in Construction Site Scenarios</strong><br>
-      <strong>Supervisor:</strong> Wang Liang<br>
-      - 在施工现场场景中，为了规划运输材料的小车路径，我们需要整合当前地图信息...<br>
+      - For efficient path planning in dynamic construction sites, we integrate current map data with semantic information to minimize the need for frequent remapping. By leveraging 3D object detection, we construct a prior semantic map, which enhances rapid localization and allows for quick adjustments using images and point clouds. This approach is being tested in collaboration with CSCEC at Baiyun Airport Terminal 3 <br>
       - <strong><a href="link_to_paper1">Paper</a> | <a href="link_to_code1">Code</a> | <a href="link_to_video1">Video</a></strong>
     </div>
   </div>
